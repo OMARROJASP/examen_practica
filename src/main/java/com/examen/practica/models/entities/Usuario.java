@@ -30,6 +30,8 @@ public class Usuario {
     )
     private List<Role> roles;
 
+
+
     public Long getId() {
         return id;
     }
